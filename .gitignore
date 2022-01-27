@@ -115,3 +115,6 @@ dmypy.json
 
 # pycharm
 /.idea
+
+# database files pulled from nook
+*.db
